@@ -1,0 +1,9 @@
+keras==2.12
+tensorflow==2.12.0
+matplotlib
+scipy
+numpy
+scikit-learn
+keras_applications
+git+https://github.com/rcmalli/keras-vggface.git
+
